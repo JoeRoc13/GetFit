@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">GetFit</string>
+    <string name="monday_tv">Monday</string>
+    <string name="tuesday_tv">Tuesday</string>
+    <string name="wednesday_tv">Wednesday</string>
+    <string name="thursday_tv">Thursday</string>
+    <string name="friday_tv">Friday</string>
+</resources>
